@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <div class="wrapper">
+        
+    <div class="produtoimagem">
+        <img src="cristais.jpg" height="350" width="420">
+    </div>
+    
+<div class="produtoimagem">
+    
+    <div class="produtotexto">
+
+    
+
+    <h1>Cristais</h1>
+    <h2>Pedras com energia</h2>
+    <p>Cristais são pedras preciosas que nos ajudam no dia a dia, equilibram chakras e auxiliam na nossa saude fisica e mental.</p>
+    </div>
+    <div class="produtopreço">
+        <p><span>R$5,00</span></p>
+        <button type="button"> Compre agora</button>
+    
+    </div>
+</div>
+    </div>
+
+</body>
+</html>
