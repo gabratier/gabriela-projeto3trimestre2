@@ -1,0 +1,30 @@
+ATIVIDADE HTML
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="atividade.css">
+    <title>Document</title>
+</head>
+<body>
+    
+<div  class="produtotexto">
+    <p>Sao brinquedos fofos e bons de apertar, crianças gostam muito </p> 
+</div>
+
+<div class="produtoimagem">
+    <img src="download.jpeg"  height="350" width="450">
+</div>
+
+
+
+</body>
+</html>
+
+
+ATIVIDADE CSS
+
+body {
+    background-color: rgb(184, 241, 210);
