@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(184, 241, 210); }
+
+  .texto {
+    color: blueviolet;
+    padding: 10%;
+  }  
+
+  .imagem{
+
+
+  }
+
+  #urso{
+
+    
+  }
+  
+  
+  
+  <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="atividade.css">
+    <title>Document</title>
+</head>
+<body>
+    
+<div  class="texto">
+    <p style="font-size: 30px;">Sao brinquedos fofos e bons de apertar, crianças gostam muito </p> 
+</div>
+
+<div class="imagem">
+    <img id="urso" src="download.jpeg" alt="urso">
+</div>
+
+</body>
+</html>
